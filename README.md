@@ -1,28 +1,24 @@
 
 
-<h1 align="center">Hi, I'm Fadhil Pratama👋</h1>
+<h1 align="center">Hi, I'm Gabriel </h1>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
 <h3 align=left> About Me </h3>
 
-- :school: I am a Student at [Faculty of Engineering](https://teknik.univpancasila.ac.id/) at [Pancasila
-  University](https://univpancasila.ac.id/).
-- :student: I’m currently learn Website Design and Software Engineering.
+- :school: I am a Student at [Faculty of Engineering](https://president.ac.id/) at [President
+  University](https://president.ac.id/).
+- :student: I’m currently learn Website Design and Software Engineering and also Cyber Security.
 - :nerd_face: Always learn something new.
 <br><br>
 
 <div align="center">
 <h2>Connect With Me</h2>
-<a href="https://www.linkedin.com/in/fadhil-pratama-58326a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="www.linkedin.com/in/gabrielhamonangan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/fadhil_4951?utm_source=qr&igsh=dTZqZ2o3YmNnemdv">
+<a href="https://www.instagram.com/gbrlhm/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@lutoh0_0?is_from_webapp=1&sender_device=pc">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/18mc1qao8X/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 <br><br>
 
